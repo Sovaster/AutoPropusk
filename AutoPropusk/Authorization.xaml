@@ -1,0 +1,64 @@
+﻿<Window x:Class="AutoPropusk.Authorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:AutoPropusk"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Window.SizeToContent="Height"
+        Width="300"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="#BE008A">
+    <Window.Template>
+        <ControlTemplate TargetType="Window">
+            <Border Name="newBorder" CornerRadius="30" Background="#BE008A">
+                <Grid>
+                    <Border Grid.Row="1">
+                        <AdornerDecorator>
+                            <ContentPresenter />
+                        </AdornerDecorator>
+                    </Border>
+                    <ResizeGrip Grid.Row="2" HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                            Visibility="Collapsed" IsTabStop="False" />
+                </Grid>
+            </Border>
+        </ControlTemplate>
+    </Window.Template>
+    <Grid>
+        <StackPanel >
+            <Border Background="WhiteSmoke" Margin="10 10" CornerRadius="30">
+                <StackPanel Margin="25">
+                    <TextBlock Style="{StaticResource MaterialDesignBody1TextBlock}" HorizontalAlignment="Center" Text="AutoPropusk"/>
+                    <TextBox Margin="15"
+                             materialDesign:HintAssist.Hint="Логин"
+                             materialDesign:HintAssist.Foreground="#015965"
+                             materialDesign:TextFieldAssist.UnderlineBrush="#015965"
+                             materialDesign:TextFieldAssist.HasClearButton="True"
+                             x:Name="TbLogin"
+                             CommandManager.PreviewCanExecute="HandleCanExecute"
+                             Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                    <PasswordBox Margin="15"
+                                 materialDesign:HintAssist.Hint="Пароль"
+                                 materialDesign:HintAssist.Foreground="#015965"
+                                 materialDesign:TextFieldAssist.UnderlineBrush="#015965"
+                                 materialDesign:TextFieldAssist.HasClearButton="True"
+                                 Name="PbPassword"
+                                 CommandManager.PreviewCanExecute="HandleCanExecute"
+                                 Style="{StaticResource MaterialDesignOutlinedRevealPasswordBox}" />
+                    <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+                        <Button x:Name="EnterBTN" Margin="10 10" Content="Войти" Background="#BE008A" Click="EnterBTN_Click"
+                                materialDesign:ButtonAssist.CornerRadius="15" BorderBrush="#7C005A" BorderThickness="2" Foreground="Black"/>
+                        <Button x:Name="BackBTN" Margin="10 10" Content="БД" Background="#BE008A" Click="BackBTN_Click"
+                                materialDesign:ButtonAssist.CornerRadius="15" BorderBrush="#7C005A" BorderThickness="2" Foreground="Black"/>
+                        <Button x:Name="ExitBTN" Margin="10 10" Content="Выход" Background="#BE008A" Click="ExitBTN_Click"
+                                materialDesign:ButtonAssist.CornerRadius="15" BorderBrush="#7C005A" BorderThickness="2" Foreground="Black"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Window>

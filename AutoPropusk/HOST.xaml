@@ -1,0 +1,64 @@
+﻿<Window x:Class="AutoPropusk.HOST"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:AutoPropusk"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Window.SizeToContent="Height"
+        Width="300"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="#BE008A">
+    <Window.Template>
+        <ControlTemplate TargetType="Window">
+            <Border Name="newBorder" CornerRadius="30" Background="#BE008A">
+                <Grid>
+                    <Border Grid.Row="1">
+                        <AdornerDecorator>
+                            <ContentPresenter />
+                        </AdornerDecorator>
+                    </Border>
+                    <ResizeGrip Grid.Row="2" HorizontalAlignment="Right" VerticalAlignment="Bottom"
+                            Visibility="Collapsed" IsTabStop="False" />
+                </Grid>
+            </Border>
+        </ControlTemplate>
+    </Window.Template>
+    <Grid>
+        <StackPanel >
+            <Border Background="WhiteSmoke" Margin="10 10" CornerRadius="30">
+                <StackPanel Margin="25">
+                    <TextBlock Style="{StaticResource MaterialDesignBody1TextBlock}" HorizontalAlignment="Center" Text="Подключение к БД"/>
+                    <TextBox Margin="15"
+                             materialDesign:HintAssist.Hint="Сервер"
+                             materialDesign:HintAssist.Foreground="#015965"
+                             materialDesign:TextFieldAssist.UnderlineBrush="#015965"
+                             materialDesign:TextFieldAssist.HasClearButton="True"
+                             x:Name="servTB"
+                             Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                    <TextBox Margin="15"
+                             materialDesign:HintAssist.Hint="База данных"
+                             materialDesign:HintAssist.Foreground="#015965"
+                             materialDesign:TextFieldAssist.UnderlineBrush="#015965"
+                             materialDesign:TextFieldAssist.HasClearButton="True"
+                             x:Name="dbTB"
+                             Style="{StaticResource MaterialDesignOutlinedTextBox}"/>
+                    <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+                        <Button x:Name="ConnectBTN" Margin="10 10" Content="Подключить" Background="#BE008A" Click="ConnectBTN_Click"
+                                materialDesign:ButtonAssist.CornerRadius="15" BorderBrush="#7C005A" BorderThickness="2" Foreground="Black"/>
+                        <Button x:Name="BackBTN" Margin="10 10" Content="Создать копию" Background="#BE008A" Click="BackBTN_Click"
+                                materialDesign:ButtonAssist.CornerRadius="15" BorderBrush="#7C005A" BorderThickness="2" Foreground="Black"/>
+                        <Button x:Name="GoBTN" Margin="10 10" Content="Вернуть базу" Background="#BE008A" Click="GoBTN_Click"
+                                materialDesign:ButtonAssist.CornerRadius="15" BorderBrush="#7C005A" BorderThickness="2" Foreground="Black"/>
+                        <Button x:Name="ContinueBTN" Margin="10 10" Content="Авторизация" Background="#BE008A" Click="ContinueBTN_Click"
+                                materialDesign:ButtonAssist.CornerRadius="15" BorderBrush="#7C005A" BorderThickness="2" Foreground="Black"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Window>

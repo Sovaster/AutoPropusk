@@ -1,0 +1,89 @@
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\bin\Debug\AutoPropusk.exe.config
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\bin\Debug\AutoPropusk.exe
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\bin\Debug\AutoPropusk.pdb
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.csproj.AssemblyReference.cache
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Dictionary.baml
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Authorization.g.cs
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\HOST.g.cs
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Information.g.cs
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Klienti.g.cs
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Menu.g.cs
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\App.g.cs
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk_MarkupCompile.cache
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk_MarkupCompile.lref
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\App.baml
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Authorization.baml
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\HOST.baml
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Information.baml
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Klienti.baml
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Menu.baml
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.g.resources
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.Properties.Resources.resources
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.csproj.GenerateResource.cache
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.csproj.CoreCompileInputs.cache
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.csproj.CopyComplete
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.exe
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.pdb
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Sotrudniki.g.cs
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Sotrudniki.baml
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\MMark.g.cs
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\MMark.baml
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Cars.g.cs
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Dostup.g.cs
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Propusk.g.cs
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\PropuskDostup.g.cs
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Cars.baml
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Dostup.baml
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\Propusk.baml
+C:\Users\Никита Сова\source\repos\AutoPropusk\AutoPropusk\obj\Debug\PropuskDostup.baml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\bin\Debug\AutoPropusk.exe.config
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\bin\Debug\AutoPropusk.exe
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\bin\Debug\AutoPropusk.pdb
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\bin\Debug\MaterialDesignColors.dll
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\bin\Debug\System.Data.SqlClient.dll
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\bin\Debug\MaterialDesignColors.pdb
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\bin\Debug\System.Data.SqlClient.xml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.csproj.AssemblyReference.cache
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.csproj.SuggestedBindingRedirects.cache
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Authorization.g.cs
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Cars.g.cs
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Dostup.g.cs
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\HOST.g.cs
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Information.g.cs
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Klienti.g.cs
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Menu.g.cs
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\MMark.g.cs
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Propusk.g.cs
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\PropuskDostup.g.cs
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Sotrudniki.g.cs
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\App.g.cs
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk_MarkupCompile.cache
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk_MarkupCompile.lref
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\App.baml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Authorization.baml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Cars.baml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Dostup.baml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\HOST.baml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Information.baml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Klienti.baml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Menu.baml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\MMark.baml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Propusk.baml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\PropuskDostup.baml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\Sotrudniki.baml
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.g.resources
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.Properties.Resources.resources
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.csproj.GenerateResource.cache
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.csproj.CoreCompileInputs.cache
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.csproj.CopyComplete
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.exe
+C:\MPT\4 курс\2 семестр\ПП 04.01\AutoPropusk\AutoPropusk\obj\Debug\AutoPropusk.pdb

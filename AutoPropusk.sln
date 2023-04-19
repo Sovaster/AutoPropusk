@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoPropusk", "AutoPropusk\AutoPropusk.csproj", "{84E189F3-ED43-4922-BE58-E9592E70B180}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PropuskSetup", "PropuskSetup\PropuskSetup.vdproj", "{7A3B2335-1533-4D31-80FC-AC9BFE536C24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E189F3-ED43-4922-BE58-E9592E70B180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E189F3-ED43-4922-BE58-E9592E70B180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E189F3-ED43-4922-BE58-E9592E70B180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E189F3-ED43-4922-BE58-E9592E70B180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A3B2335-1533-4D31-80FC-AC9BFE536C24}.Debug|Any CPU.ActiveCfg = Debug
+		{7A3B2335-1533-4D31-80FC-AC9BFE536C24}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8510B157-ADBD-4C5F-A839-7C19001DF3AB}
+	EndGlobalSection
+EndGlobal
